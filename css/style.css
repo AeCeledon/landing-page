@@ -119,12 +119,17 @@ ul {
 }
 figcaption {
     text-align: center;
+    color: #1f2937;
 }
 .section2 img {
     width: 180px;
     height: auto;
     border: 5px solid #3882F6;
     border-radius: 10px;
+}
+.section2 a{
+    color: #3882F6;
+    font-weight: bold;
 }
 /*section 3*/
 .s3.container {
